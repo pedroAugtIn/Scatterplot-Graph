@@ -1,0 +1,11 @@
+#tooltip {
+    position: absolute;
+    background-color: #f9f9f9;
+    border: 1px solid #aaa;
+    padding: 10px;
+    opacity: 0;
+}
+
+.legend {
+border: 1px solid black;
+}
